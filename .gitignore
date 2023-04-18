@@ -1,2 +1,5 @@
 env/
 data/
+tests/__pycache__/
+build/
+ppml_datasets.egg-info/
