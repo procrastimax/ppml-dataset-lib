@@ -4,7 +4,7 @@ from setuptools import find_packages, setup
 setup(
     name='ppml_datasets',
     packages=find_packages(include=['ppml_datasets']),
-    python_requires='>=3.8.6',
+    python_requires='>=3.9.6',
     version='0.1.0',
     description='a library that contains dataset structures and functions for privacy preserving machine learning',
     author='procrastimax',
