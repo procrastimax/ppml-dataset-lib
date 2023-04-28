@@ -13,6 +13,7 @@ setup(
         "tensorflow==2.12.0",
         "tensorflow-datasets==4.9.2",
         "gdown==4.7.1",
-        "scikit-learn==1.2.2"],
+        "scikit-learn==1.2.2",
+        "matplotlib==3.7.1"],
     setup_requires=[''],
 )
